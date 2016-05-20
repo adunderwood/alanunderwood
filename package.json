@@ -1,0 +1,22 @@
+{
+  "name": "alanunderwood",
+  "version": "1.0.0",
+  "description": "This is just a test project for a personal website. No real need to open source it, just that I'm practicing using git.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adunderwood/alanunderwood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adunderwood/alanunderwood/issues"
+  },
+  "homepage": "https://github.com/adunderwood/alanunderwood#readme",
+  "devDependencies": {
+    "gulp-plumber": "^1.1.0"
+  }
+}
